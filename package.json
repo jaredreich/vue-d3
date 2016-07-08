@@ -1,0 +1,19 @@
+{
+  "name": "vue-d3",
+  "version": "0.1.0",
+  "description": "A Vue.js plugin for D3",
+  "author": "Jared Reich <jaredreich@gmail.com>",
+  "private": false,
+  "main": "vue-d3.js",
+  "license": "MIT",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaredreich/vue-d3.git"
+  },
+  "dependencies": {
+    "d3": "^4.0.0",
+    "vue": "^1.0.21"
+  },
+  "devDependencies": {}
+}
